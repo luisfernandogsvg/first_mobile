@@ -24,7 +24,7 @@ body {
 }
 
 header {
-    background-color: #21203f;
+    background-color: #3e5b64;
     margin-top: 3px;
     border-radius: 7px 7px 0px 0px;
     width: 90vw;
@@ -33,7 +33,7 @@ header {
 
 header>h1 {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     padding: 3px;
     text-shadow: #ffffff 1px 1px 10px;
     margin-top: 17px;
@@ -41,9 +41,9 @@ header>h1 {
 }
 
 #burger {
-    background-color: #7a79aa;
+    background-color: #f5f5f5cc;
     display: block;
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.979);
     text-align: center;
     margin: auto;
     padding: 7px;
@@ -52,11 +52,11 @@ header>h1 {
 }
 
 #burger:hover {
-    background-color: #ffffff;
+    background-color: #199ab1;
 }
 
 menu {
-    color: rgb(255, 255, 255);
+    color: #a0040465;
     text-align: center;
     list-style-type: none;
     width: 90vw;
@@ -72,22 +72,22 @@ menu>ul>li>a {
     padding: 7px;
     text-decoration: none;
     text-align: center;
-    background-color: #21203f;
+    background-color: #3c5158bd;
     border-radius: 0px 0px 0px 0px;
-    color: rgb(119, 202, 235);
+    color: #2ccfba;
     margin: auto;
 
 }
 
 menu>ul>li>a:hover {
-    background-color: #925331;
-    color: rgb(29, 0, 0);
+    background-color: #1031c286;
+    color: rgb(12, 146, 68);
     text-decoration: none;
 }
 
 
 main {
-    background-color: #b3a1ca;
+    background-color: snow;
     width: 90vw;
     margin: auto;
     border-radius: 7px 7px 0px 0px;
@@ -109,7 +109,7 @@ article>p {
 }
 
 footer {
-    background-color: #0cd1d1;
+    background-color: #567474;
     text-align: center;
     border-radius: 0px 0px 7px 7px;
     width: 90vw;
@@ -170,12 +170,12 @@ deixando assim o menu burger oculto, forçando assim o menu aparecendo inline-bl
         display: block;
         width: 90vw;
         margin: auto;
-        background-color: #21203f;
+        background-color: #3c5158;
     }
 
     menu>ul>li {
         display: inline-block;
-        background-color: #21203f;
+        background-color: #3c5158;
 
     }
 
@@ -240,12 +240,12 @@ deixando assim o menu burger oculto, forçando assim o menu aparecendo inline-bl
 
     menu {
         display: block;
-        background-color: #21203f;
+        background-color: #3c5158;
     }
 
     menu>ul>li {
         display: inline-block;
-        background-color: #21203f;
+        background-color: #3c5158;
     }
 
     main {
@@ -308,12 +308,12 @@ deixando assim o menu burger oculto, forçando assim o menu aparecendo inline-bl
 
     menu {
         display: block;
-        background-color: #21203f;
+        background-color: #3c5158;
     }
 
     menu>ul>li {
         display: inline-block;
-        background-color: #21203f;
+        background-color: #3c5158;
     }
 
     main {
